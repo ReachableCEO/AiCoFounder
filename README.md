@@ -38,5 +38,7 @@ I am embarking on this journey in earnest 12/2. Stay tuned.
 - https://github.com/jina-ai/dev-gpt
 - https://github.com/yoheinakajima/babyagi
 - https://github.com/microsoft/autogen
+- https://github.com/crewAIInc/crewAI
+- https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file
 
 (and in general various agentic frameworks/efforts)
